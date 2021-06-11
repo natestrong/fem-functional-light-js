@@ -1,0 +1,23 @@
+{
+  "name": "fem-functional-light-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natestrong/fem-functional-light-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natestrong/fem-functional-light-js/issues"
+  },
+  "homepage": "https://github.com/natestrong/fem-functional-light-js#readme",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  }
+}
