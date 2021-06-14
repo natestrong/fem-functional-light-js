@@ -8,6 +8,7 @@ function countVowels(str, index=0) {
   return count + countVowels(str, index + 1);
 }
 
+
 console.log(
   countVowels('The quick brown fox jumps over the lazy dog')
   )

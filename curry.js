@@ -14,3 +14,6 @@ const add3 = (a, b, c) => a + b + c;
 
 const curryAdd = curry(add3);
 
+const curry2 = fn => (...args) => console.log(args);
+
+curry2(1, 2, 3);
